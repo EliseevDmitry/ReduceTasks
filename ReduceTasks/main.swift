@@ -303,9 +303,3 @@ func splitNCases(_ string: String, n: Int) -> [String] {
 
 let resiltSplit = splitNCases("abcdef", n: 2)
 print(resiltSplit)
-
-
-
-
-
-
